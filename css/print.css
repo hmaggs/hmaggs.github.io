@@ -42,3 +42,7 @@ table th{
 table td{
   border: solid 1px;
 }
+
+.mob p{
+  display: none;
+}
